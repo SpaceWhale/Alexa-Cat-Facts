@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "CatFactIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

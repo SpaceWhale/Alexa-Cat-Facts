@@ -1,0 +1,6 @@
+CatFactIntent tell me a cat fact
+CatFactIntent give me a fact about cats
+CatFactIntent give me a cat fact
+CatFactIntent tell me about cats
+CatFactIntent I need a cat fact
+CatFactIntent meow
