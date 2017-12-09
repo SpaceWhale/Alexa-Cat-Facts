@@ -1,5 +1,5 @@
 # Alexa-Cat-Facts
-a cat facts alexa skill
+This is a simple proof of concept messing around with alexa skills. A cat facts alexa skill
 
 # Requirements
 flask_ask
